@@ -45,15 +45,15 @@ To run this project locally, follow these steps:
 4. **Start the development server:**  
 
    ```bash
-   npm start # or yarn start
+   npm run dev
     ```
 
-5.  Open your browser and navigate to `http://localhost:3000`.
+5.  Open your browser and navigate to `http://localhost:5173`.
 
 ## Deployment
 
-This portfolio is deployed on Netlify. You can view it live at: [https://spotify-clone-project.netlify.app/]
+This portfolio is deployed on Netlify. You can view it live at: https://spotify-clone-project.netlify.app/
 
 ## Author
 
-* Darasimi010 - [https://github.com/Darasimi010/](https://github.com/Darasimi010/)
+* Darasimi010 - https://github.com/Darasimi010
