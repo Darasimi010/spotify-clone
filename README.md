@@ -1,4 +1,4 @@
-# Spotify Clone 🎵  
+# Spotify Clone
 
 This repository contains the source code for a Spotify Clone, built using **ReactJS** and **TailwindCSS**.  
 
