@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This portfolio is deployed on Netlify. You can view it live at: https://spotify-clone-project.netlify.app/
+This portfolio is deployed on Netlify. You can view it live at: `https://darasimi-spotify-clone.netlify.app/`
 
 ## Author
 
